@@ -1,0 +1,8 @@
+{
+  "settingsInheritedFrom": "amaybaum-ghe-local/whitesource-config@main",
+  "scanSettings": {
+    "configMode": "LOCAL"
+  }
+}
+
+
